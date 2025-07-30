@@ -22,7 +22,7 @@ do vetor.
 - [x] (8) Verifique se uma palavra é palíndromo (Ex. aba, abcba, xyzzyx).
 - [ ] (9) Dado um número n, gere todas as possíveis combinações com as n primeiras letras
 do alfabeto. Ex.: n = 3. Resposta: ABC, ACB, BAC, BCA, CAB, CBA.
-- [ ] (10) Defina uma sequência de Fibonacci generalizada, de f0 a f1 como sequência
+- [x] (10) Defina uma sequência de Fibonacci generalizada, de f0 a f1 como sequência
 fibg(f0, f1, 0), fibg(f0, f1, 1), fibg(f0, f1, 2), ..., onde:
    * fibg(f0, f1, 0) = f0
    * fibg(f0, f1, 1) = f1
